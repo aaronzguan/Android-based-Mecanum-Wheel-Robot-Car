@@ -1,0 +1,115 @@
+.background{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.connectButton{
+    position:absolute;
+    left: 542px;
+    top: 3px;
+}
+
+.turnleft{
+    position:absolute;
+    left: 6px;
+    top: 118px;
+}
+
+.turnright
+{
+    position:absolute;
+    left: 158px;
+    top: 118px;
+}
+
+.degree0
+{
+    position:absolute;
+    left: 451px;
+    top: 81px;
+}
+
+.degree45
+{
+    position:absolute;
+    left: 558px;
+    top: 128px;
+}
+
+.degree90
+{
+    position:absolute;
+    left:575px;
+    top:202px;
+}
+
+.degree135
+{
+    position:absolute;
+    left:550px;
+    top: 282px;
+}
+
+.degree180
+{
+    position:absolute;
+    left: 453px;
+    top: 319px;
+}
+
+.degree225
+{
+    position:absolute;
+    left: 354px;
+    top: 278px;
+}
+
+.degree270
+{
+    position:absolute;
+    left: 322px;
+    top: 197px;
+}
+
+.degree315
+{
+    position: absolute;
+    left: 346px;
+    top: 127px;
+}
+
+.IC
+{
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+
+.TL
+{
+    position: absolute;
+    left: 8px;
+    top: 218px;
+}
+
+.TR
+{
+    position: absolute;
+    left: 240px;
+    top: 210px;
+}
+
+.wheel
+{
+    position: absolute;
+    left: 329px;
+    top: 80px;
+}
+
+.aboutus
+{
+    position: absolute;
+    left: 214px;
+    top: 10px;
+}
