@@ -6,7 +6,7 @@ This Mecanum Wheel Robot car is based on an Android application that enables use
 
 ## System Structure
 
-The system would be divided into 3 parts: Mobile Application, Main Control Unit (MCU), and Motor Control Section.
+The system would be divided into 3 parts: [Mobile Application](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/tree/master/Android_App), [Main Control Unit (MCU)](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/MainController.c), and [Motor Control Section](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/MotorController.c).
 
 ![image](http://www.aaronguan.com/images/robotcar/structure.png)
 
