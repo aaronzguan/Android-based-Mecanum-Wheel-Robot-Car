@@ -4,14 +4,20 @@ var app = {
 
 
 /*
-    Application constructor
+    Application Constructor
  */
     initialize: function() {
-        this.bindEvents();
-        console.log("Starting SimpleSerial app");
+        this.bindEvents(); //Add action listener
+        console.log("Starting the app");
     },
 /*
     bind any events that are required on startup to listeners:
+    document.addEventListener(event, function, useCapture)
+    {
+    event: Required. A String that specifies the name of the event.
+    function: Required. Specifies the function to run when the event occurs. 
+    useCapture: Optional. A Boolean value that specifies whether the event should be executed in the capturing or in the bubbling phase.
+    }
 */
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
