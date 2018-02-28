@@ -1,10 +1,3 @@
-/*
-    SimpleSerial index.js
-    Created 7 May 2013
-    Modified 9 May 2013
-    by Tom Igoe
-*/
-
 var app = {
     macAddress: "20:15:05:05:61:99",  // get your mac address from bluetoothSerial.list
     chars: "",
