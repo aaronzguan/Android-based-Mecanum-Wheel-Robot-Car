@@ -1,6 +1,6 @@
 # Android-based-Mecanum-Wheel-Robot-Car
 
-The detail of this project can be found at my [personal blog](http://www.aaronguan.com/robot-car.html) 
+The detail of this project can be found at my [personal blog](http://aaronguan.com/mecanum_wheel_robot.html) 
 
 This Mecanum Wheel Robot car is based on an Android application that enables user to control its speed and direction. The PID control program can make sure the car can always maintain the required speed on any floor regardless of friction. Bluetooth HC-05 is used to communicate between the phone and main controller. As one of the field buses, CAN bus is used to communicate between main controller and 2 motor controllers.
 
