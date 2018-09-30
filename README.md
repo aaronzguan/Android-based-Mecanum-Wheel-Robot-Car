@@ -12,13 +12,13 @@ You can watch the demonstration video here:
 
 The system would be divided into 3 parts: [Mobile Application](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/tree/master/Android_App), [Main Control Unit (MCU)](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/MainController.c), and [Motor Control Section](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/MotorController.c).
 
-![image](http://www.aaronguan.com/images/robotcar/structure.png)
+![image](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/images/structure.png)
 
 ### [Mobile Application](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/tree/master/Android_App)
 
 We used Cordova as development platform and we have used CSS3, HTML5 and Javascript to develop this web-based android application. The layout of our mobile android app is shown as below:
 
-![image](http://www.aaronguan.com/images/robotcar/mobileapp.png)
+![image](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/images/mobileapp.png)
 
 There are totally four buttons on the Android app. The left turn button and the right turn button on the left part are used to turn around the car, but the user needs to constantly press it. The 8 directional movement button is on the right part of the android app, each direction has 45° difference.
 
@@ -28,10 +28,10 @@ The Bluetooth button is on the top right corner of the app, which is a switch of
 
 Main Control Unit (MCU) is responsible for establishing the communication link between the mobile application and the Motor Controllers (MC). 
 
-![image](http://www.aaronguan.com/images/robotcar/communication.png)
+![image](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/images/communication.png)
 
 ### [Motor Control](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/MotorController.c)
 
-![image](http://www.aaronguan.com/images/robotcar/motor.png)
+![image](https://github.com/aaronzguan/Android-based-Mecanum-Wheel-Robot-Car/blob/master/images/motor.png)
 
 
